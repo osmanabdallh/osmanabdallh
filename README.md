@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning data Structure and problem solving
 - 💞️ I’m looking to collaborate on open source code and projects
-- 📫 How to reach me osmanabdallh139@gmail.com
+- 📫 How to reach me ...
 
 <!---
 osmanabdallh/osmanabdallh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
