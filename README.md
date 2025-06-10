@@ -8,7 +8,7 @@ My focus is on writing clean code, learning fast, and solving real problems.
 I’m currently looking for remote opportunities in Android development, Laravel backend, or full-stack junior roles.
 
 ✔ Java | Android | Laravel | PHP | MySQL | Firebase  
-✔ GitHub:
+✔ GitHub:https://github.com/osmanabdallh
 ✔ LinkedIn:https://www.linkedin.com/in/osman-abdallh-humidan-124798199/
 ✔ Email: osmanworkre@gmail.com
 
